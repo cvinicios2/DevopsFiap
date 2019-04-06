@@ -1,0 +1,11 @@
+Started by user [8mha:////4DE4zkmLVoOToeB16cv3NPsI7cOj+RPu8umxuo6d4zt2AAAAlx+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAzWEgZu/dLi1CL9xJTczDwAj6GcLcAAAAA=[0madmin
+Running as SYSTEM
+[EnvInject] - Loading node environment variables.
+Unable to auto-install JDK until the license is accepted.
+Building in workspace /var/jenkins_home/workspace/teste2
+Unable to auto-install JDK until the license is accepted.
+[teste2] $ /bin/sh -xe /tmp/jenkins7421392233231160771.sh
++ sleep 20
++ sleep 20
+Triggering a new build of [8mha:////4IwyUh76JDXgT7MQnzDGkefr3rkrPTRI1NfQiZiESnk3AAAAmB+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAy2EgYe/az8JP2S1OKSVEN9APisN4vBAAAA[0mteste1
+Finished: SUCCESS
