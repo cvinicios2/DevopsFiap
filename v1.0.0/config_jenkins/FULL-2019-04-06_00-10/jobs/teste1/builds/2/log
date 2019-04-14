@@ -1,0 +1,11 @@
+Started by upstream project "[8mha:////4Mdep/B4z1Da+DvSfG02C3RadNkvrwJGQGFwcdcCyFl8AAAAmB+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAy2EgYe/az8JP2S1OKSVCN9ADv/GqDBAAAA[0mteste2" build number [8mha:////4Dofb/FFNBobMPn2cqssc1oq/aAO2rdPpM7wAjBi1mnxAAAAmB+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLQIwSBl79rPwk/ZLU4pJUI31DAFGB6o/CAAAA[0m1
+originally caused by:
+ Started by user [8mha:////4DE4zkmLVoOToeB16cv3NPsI7cOj+RPu8umxuo6d4zt2AAAAlx+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAzWEgZu/dLi1CL9xJTczDwAj6GcLcAAAAA=[0madmin
+Running as SYSTEM
+[EnvInject] - Loading node environment variables.
+Unable to auto-install JDK until the license is accepted.
+Building in workspace /var/jenkins_home/workspace/teste1
+Unable to auto-install JDK until the license is accepted.
+[teste1] $ /bin/sh -xe /tmp/jenkins7936020460422163865.sh
++ sleep 45
+Finished: SUCCESS
